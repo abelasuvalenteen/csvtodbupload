@@ -8,13 +8,13 @@
 
     CsvToDatabaseLoader
 
-    Accepts Parameter: 1 (Optional)
+    Accepts Parameter: 1 
 
     Datasource Parameter:
     mysql
     oracle
-    - if Parameter is empty the Datasource will be defaulted to mysql
-    e.g. java CsvToDatabaseLoader 
+
+    e.g. java CsvToDatabaseLoader mysql
                 - Assumption: default Datasource is mysql
          java CsvToDatabaseLoader oracle 
                 - Assumption:
