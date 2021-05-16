@@ -1,4 +1,4 @@
-package com.zhulke;
+package com.csvdbupload;
 
 import com.ibatis.common.jdbc.ScriptRunner;
 import com.mysql.cj.util.StringUtils;

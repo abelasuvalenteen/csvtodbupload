@@ -5,8 +5,8 @@
 	http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.zhulke</groupId>
-    <artifactId>csvupload</artifactId>
+    <groupId>com.csvdbupload</groupId>
+    <artifactId>csvdbupload</artifactId>
     <packaging>jar</packaging>
     <version>1.0</version>
 

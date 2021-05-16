@@ -1,4 +1,4 @@
-package com.zhulke;
+package com.csvdbupload;
 
 /**
  * PropertiesModel Class
